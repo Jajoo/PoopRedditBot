@@ -1,1 +1,2 @@
 # ShittyRedditBot
+#SUPER Shitty
